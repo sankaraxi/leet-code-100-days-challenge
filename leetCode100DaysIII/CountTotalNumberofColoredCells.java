@@ -1,5 +1,6 @@
 package leetCode100DaysIII;
-
+//https://leetcode.com/problems/count-total-number-of-colored-cells/description/
+//Day005
 public class CountTotalNumberofColoredCells {
     public static void main(String[] args) {
         int n = 5;
